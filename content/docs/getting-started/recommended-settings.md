@@ -14,6 +14,7 @@ In the Bay Area, we have a few recommendations for configuration:
     * Set region to United States (US)
     * **Preset**: Long Range - Fast (Default)
     * **Number of hops**: 3 (Default) - Please don't turn this up.
+    * Set OK to MQTT to true if you want your node to be shown on the public maps or your text messages to be seen on our Discord logger.
     * Set Ignore MQTT to true to avoid forwarding MQTT traffic
 * Channels
     * 0 Primary Channel
